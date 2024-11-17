@@ -45,6 +45,8 @@ const logosPath = {
     "DARK MYTH": "logos/DM.png",
     "DIENASTY": "logos/DNST.png",
     "DYNASTY": "logos/DYNASTY.png",
+    "N1 NIMA EXY": "logos/N1.png",
+    "GUARANI E-SPORTS": "logos/GUAR.png",
     "DRAGON LEGIONS": "logos/DL.png", // FALTA LOGO
     "E11 ELEVEN EXY": "logos/EXY_TOP.png",
     "ELITE": "logos/KENIT.png",
@@ -60,6 +62,7 @@ const logosPath = {
     "FENIX": "logos/FENIX.png",
     "FENIX Z1": "logos/FENIX.png",
     "FXL": "logos/NO.png",
+    "FROZONOS": "logos/FROZO.png",
     "FACTOZ": "logos/FZ.png",
     "GAMERS ELITE": "logos/GE.png",
     "GK 1ST": "logos/GK.png",
