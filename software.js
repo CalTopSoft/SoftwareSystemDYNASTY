@@ -97,6 +97,7 @@ const logosPath = {
     "KH E-SPORTS": "logos/KH.png",
     "KIDS GANG": "logos/KGANG.png",
     "LEVIATANES": "logos/LEV.png",
+    "MYSTICS": "logos/MTC.png",
     "METSU": "logos/METSU.png",
     "METSU ONI": "logos/METSU.png",
     "MS": "logos/METSU.png",
