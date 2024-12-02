@@ -50,6 +50,7 @@ const logosPath = {
     "DIENASTY": "logos/DNST.png",
     "DYNASTY": "logos/DYNASTY.png",
     "N1 NIMA EXY": "logos/N1.png",
+    "N1 NIMA EXY 2": "logos/N1.png",
     "GUARANI E-SPORTS": "logos/GUAR.png",
     "DRAGON LEGIONS": "logos/DL.png", // FALTA LOGO
     "E11 ELEVEN EXY": "logos/EXY_TOP.png",
