@@ -29,6 +29,7 @@ const logosPath = {
     "ASG PROSHU": "logos/ASG.png",
     "ASGARD": "logos/ASG.png",
     "BLOODLUST": "logos/BLOODLUST.png",
+    "BRK": "logos/BRK.png",
     "CT MEXICO": "logos/CTM.png",
     "COURT OF WOLVES": "logos/COW.png",
     "CABRITAS": "logos/CABRITAS.png",
