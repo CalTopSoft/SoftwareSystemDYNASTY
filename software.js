@@ -87,6 +87,7 @@ const logosPath = {
     "GK ELITE PC": "logos/GK.png",
     "GK MOBILE": "logos/GK.png",
     "GK PC": "logos/GK.png",
+    "BOLIVIAN GANG": "logos/GLIZZY.png",
     "GLIZZY GANG": "logos/GLIZZY.png",
     "GLIZZY GLOBANT": "logos/GLIZZY.png",
     "GS IMPERIAL": "logos/GS.png",
