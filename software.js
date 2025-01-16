@@ -72,6 +72,7 @@ const logosPath = {
     "EXY MOBILE": "logos/EXY_MOBILE.png",
     "EXY PRUEBAS": "logos/EXY_CREW.png",
     "EXY SA": "logos/EXY_SA.png",
+    "EXYLUS": "logos/EXY_TOP.png",
     "EXY TOP": "logos/EXY_TOP.png",
     "FAZE HACK": "logos/FH.png",
     "FENIX": "logos/FENIX.png",
