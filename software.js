@@ -40,6 +40,7 @@ const logosPath = {
     "CLAN 666": "logos/CLAN_666.png",
     "CLS": "logos/CLS.png",
     "CLS BLACK": "logos/CLS.png",
+    "LEVEL UP": "logos/LU.png",
     "CLS BLACKBOX": "logos/CLS.png",
     "CLS CUYS": "logos/CLS.png",
     "CLS MIX": "logos/CLS.png",
