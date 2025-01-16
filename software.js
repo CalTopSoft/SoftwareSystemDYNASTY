@@ -8,6 +8,7 @@ function ocultarSpinner() {
 }
 const logosPath = {
     "AKATSUKI": "logos/AKU.png",
+    "AKATSUKI PC": "logos/AKU.png",
     "ARMADYL": "logos/AD.png",
     "AGS EU": "logos/AGS.png",
     "AGSV2 ESPORTS": "logos/AGS.png",
