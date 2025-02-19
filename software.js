@@ -204,6 +204,9 @@ const logosPath = {
     "1%": "logos/1.png",
     "1% MOBILE": "logos/1M.png",
     "8GAY": "logos/GAY.png", // FALTA LOGO
+    "YEW XAS": "logos/YT.png",
+    "YX TIER": "logos/YT.png",
+    "YX MOB": "logos/YT.png",
 };
 
 
